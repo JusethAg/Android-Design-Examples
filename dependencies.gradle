@@ -1,6 +1,13 @@
 ext {
-    compileSdkVersion = 24
-    buildToolsVersion = '24.0.0'
-    minSdkVersion = 16
-    targetSdkVersion = 24
+    // Gradle version
+    gradleVer = '2.2.0'
+    
+    // SDK Version
+    compileSdkVer = 24
+    buildToolsVer = '24.0.1'
+    minSdkVer = 16
+    targetSdkVer = 24
+
+    // Support libraries
+    supportLibraryVer = '24.0.0'
 }
