@@ -1,9 +1,11 @@
-package com.jusethag.introsliderandauthentication;
+package com.jusethag.introsliderandauthentication.features.intro.ui;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class IntroSlider extends AppCompatActivity {
+import com.jusethag.introsliderandauthentication.R;
+
+public class IntroSliderActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
